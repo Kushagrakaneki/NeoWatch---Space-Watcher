@@ -43,6 +43,25 @@ NASA NeoWS API
       │
       └──► Email alerts (Nodemailer → Gmail SMTP)
 ```
+---
+## Screenshots
+<img width="1000"  alt="Screenshot 2026-04-05 052818" src="https://github.com/user-attachments/assets/1b46b965-0ec9-4d40-8fa7-c8e231b9d387" />
+<br><br>
+<hr>
+<img width="1000"  alt="Screenshot 2026-04-05 052511" src="https://github.com/user-attachments/assets/58d16bdd-c80d-4b18-bee5-27d30f6f5127" />
+<br><br>
+<hr>
+<img width="1000"  alt="Screenshot 2026-04-05 052550" src="https://github.com/user-attachments/assets/7a1189f0-abab-47bd-a523-44c527a080dd" />
+<br><br>
+<hr>
+<img width="1000"  alt="Screenshot 2026-04-05 052634" src="https://github.com/user-attachments/assets/594f37cc-c895-41ff-865b-cd42e8cebc92" />
+<br><br>
+<hr>
+<img width="1000"  alt="Screenshot 2026-04-05 052652" src="https://github.com/user-attachments/assets/f982e93c-4e1b-448d-959d-df91bf6852bc" />
+<br><br>
+<hr>
+<img width="1000"  alt="Screenshot 2026-04-05 052736" src="https://github.com/user-attachments/assets/3a73b691-fe0d-40e0-9f10-406226f5e0eb" />
+
 
 ---
 
